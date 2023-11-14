@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahhem&label=Profile%20views&color=e4af48&style=flat" alt="noahhem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahhem" alt="noahhem" /></a> </p>
-
 - 🔭 Je travaille actuellement sur un **Pokédex**
 
-- 🌱 Actuellement j'apprend le **PHP**
+- 🌱 Actuellement j'apprends le **PHP**
 
-- 📫 Me contacter **hemery.noah18@gmail.com**
+- 📫 Me contacter : **hemery.noah18@gmail.com**
 
-- ⚡ Passions **Rap, peinture**
+- ⚡ Mes passions : **Rap, peinture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
