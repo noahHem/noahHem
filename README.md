@@ -5,7 +5,7 @@
 
 - 🌱 Actuellement, j'apprends le **PHP**
 
-- ⚡ Mes passions : **La msuique et la peinture**
+- ⚡ Mes passions : **La musique et la peinture**
 
 
 <h1>🔧Mes outils :</h1>
