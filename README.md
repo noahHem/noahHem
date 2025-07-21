@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis Noah Hemery</h1>
-<h3 align="center">Étudiant en BUT d'informatique</h3>
+<h3 align="center">Freelance développeur mobile</h3>
 
 - 🔭 Je travaille actuellement sur un **Pokédex** avec Flask
 
